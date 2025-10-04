@@ -72,7 +72,7 @@ class Program
             _chapter = 3;
             _verse = 5;
             _endVerse = 6;
-            
+
             Reference _reference3 = new Reference(_book, _chapter, _verse, _endVerse);
             _versicle = _reference3.GetDisplayText();
             Console.WriteLine(_versicle);
@@ -150,23 +150,6 @@ class Program
             }
             //Console.WriteLine(_scripture.ScriptureMethod(0, ""));
             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
             Console.WriteLine();
