@@ -1,0 +1,15 @@
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.exe
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.deps.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.runtimeconfig.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\bin\Debug\net8.0\OnlineOrdering.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.AssemblyInfoInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.AssemblyInfo.cs
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.csproj.CoreCompileInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.sourcelink.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\refint\OnlineOrdering.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\OnlineOrdering.genruntimeconfig.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week04\OnlineOrdering\obj\Debug\net8.0\ref\OnlineOrdering.dll
