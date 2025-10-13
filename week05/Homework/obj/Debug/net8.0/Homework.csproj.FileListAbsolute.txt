@@ -1,0 +1,15 @@
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\bin\Debug\net8.0\Homework.exe
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\bin\Debug\net8.0\Homework.deps.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\bin\Debug\net8.0\Homework.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\bin\Debug\net8.0\Homework.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.sourcelink.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\refint\Homework.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Homework\obj\Debug\net8.0\ref\Homework.dll
