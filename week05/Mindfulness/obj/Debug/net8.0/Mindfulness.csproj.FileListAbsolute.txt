@@ -1,0 +1,28 @@
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week05\Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfoInputs.cache
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.AssemblyInfo.cs
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.csproj.CoreCompileInputs.cache
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.dll
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\refint\Mindfulness.dll
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.pdb
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\bin\Debug\net8.0\Mindfulness.exe
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\bin\Debug\net8.0\Mindfulness.deps.json
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\bin\Debug\net8.0\Mindfulness.runtimeconfig.json
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\bin\Debug\net8.0\Mindfulness.dll
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\bin\Debug\net8.0\Mindfulness.pdb
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\Mindfulness.genruntimeconfig.cache
+C:\MEUS DOCUMENTOS\02- BYU\SEMANA 5\Mindfulness\obj\Debug\net8.0\ref\Mindfulness.dll
