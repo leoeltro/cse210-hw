@@ -1,0 +1,15 @@
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.exe
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.deps.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.runtimeconfig.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\bin\Debug\net8.0\ExerciseTracking.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.sourcelink.json
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\refint\ExerciseTracking.dll
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
+D:\MEUS DOCUMENTOS\1- BUY PATHWAY\1- GRADUAÇAO BYU\013- Programming with Classes\REP GITHUB\cse210-hw\week07\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll
